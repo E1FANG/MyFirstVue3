@@ -19,6 +19,7 @@ export default {
     console.log(`this is mounted`)
     console.log('this is so fast, Amazing!')
     console.log(`test mac git`);
+    console.log('test rename git');
   }
 }
 </script>
